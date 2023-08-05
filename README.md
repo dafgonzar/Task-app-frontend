@@ -1,9 +1,11 @@
-# Tools Needed
+# Task App Frontend 
+
+# Necesary components to run application
 
 - Visual Studio Code
 - Node Js
 
-## Run Project
+## Steps to run local application
 
 - Download project sources files to https://github.com/dafgonzar/Task-app-frontend.git
 - Before install node js open Visual Studio Code
